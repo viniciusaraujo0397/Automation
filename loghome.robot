@@ -48,8 +48,4 @@ Step 4: Forgot password (Visual page validation)
     Sleep                       5
 
 
-#Step 4.1: Checking confirmation email       
-    #Open Browser                https://yopmail.com/en/         chrome
-    #Input Text                  css:input[title=email]          testrobotiron
-    #Click Element               xpath://button[contains(.,'')]
-    #Sleep                       5
+
